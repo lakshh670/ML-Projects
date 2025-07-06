@@ -1,1 +1,1 @@
-
+This project aims to demonstrate the application of logistic regression in predicting diabetes occurrence based on various features such as glucose levels, blood pressure, BMI, age and more. By leveraging a dataset containing historical health data of individuals, we'll train a logistic regression model to discern patterns and relationships between these features and the likelihood of diabetes onset.
